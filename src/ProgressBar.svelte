@@ -1,9 +1,6 @@
 <script>
-    export let progress = 0;
+  export let progress = 0;
 </script>
-
-
-
 
 <div bp="grid">
   <h2 bp="offset-5@md 4@md 12@sm" class="progress-container">
